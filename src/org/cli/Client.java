@@ -16,5 +16,8 @@ public class Client {
 
 		Client c = new Client();
 		c.cliId();
+		c.cliName();
+		System.out.println(c.a);
+		System.out.println(c.b);
 	}
 }
